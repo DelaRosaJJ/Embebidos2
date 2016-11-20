@@ -1,0 +1,68 @@
+<resources>
+
+    
+	<!-- SPANISH LANGUAGE -->
+    
+	<!-- APP -->    
+    	<string name="app_name">Calculadora</string>
+    	<string name="app_name_settings">Preferencias</string>
+    	<string name="app_name_about">Acerca de</string>
+    	<string name="activity_main_title">Calculadora Basica</string>
+    
+    <!-- Botones Main -->
+	    <string name="main_btn_0">0</string>
+	    <string name="main_btn_1">1</string>
+	    <string name="main_btn_2">2</string>
+	    <string name="main_btn_3">3</string>
+	    <string name="main_btn_4">4</string>
+	    <string name="main_btn_5">5</string>
+	    <string name="main_btn_6">6</string>
+	    <string name="main_btn_7">7</string>
+	    <string name="main_btn_8">8</string>
+	    <string name="main_btn_9">9</string>
+	    <string name="main_btn_decimal">.</string>
+	    <string name="main_btn_plus">+</string>
+	    <string name="main_btn_minus">-</string>
+	    <string name="main_btn_multiply">x</string>
+	    <string name="main_btn_divide">/</string>
+	    <string name="main_btn_mc">MC</string>
+	    <string name="main_btn_mr">MR</string>
+	    <string name="main_btn_ms">MS</string>
+	    <string name="main_btn_mPlus">M+</string>
+	    <string name="main_btn_mMinus">M-</string>
+	    <string name="main_btn_back">←</string>
+	    <string name="main_btn_ce">CE</string>
+	    <string name="main_btn_c">C</string>
+	    <string name="main_btn_plusMinus">±</string>
+	    <string name="main_btn_square">√</string>
+	    <string name="main_btn_percentage">%</string>
+	    <string name="main_btn_derivate">1/x</string>
+	    <string name="main_btn_equal">=</string>
+	    <string name="main_btn_menu">\u2507</string>
+	    <string name="main_btn_elevated">x²</string>
+
+	<!-- Botones Main Operaciones avanzadas -->	    
+	    <string name="mathematical_menu_sin">seno</string>
+	    <string name="mathematical_menu_coseno">coseno</string>
+	    <string name="mathematical_menu_tan">tangente</string>
+	    <string name="mathematical_menu_pi">Pi</string>
+	    
+	<!-- Botones Main Menu -->	    
+	    <string name="main_menu_copy">Copiar</string>
+	    <string name="main_menu_paste">Pegar</string>
+	    <string name="main_menu_settings">Configuración</string>
+	    <string name="main_menu_about">Acerca de</string>
+	    <string name="main_menu_message_copied">Texto copiado</string>
+	    <string name="main_menu_message_no_copied">El texto no es un número</string>
+	    
+    <!-- Activity configuración -->
+	    <string name="menu_showNotificationBar">Mostrar barra de notificaciones</string>
+	    <string name="menu_rememberLastResult">Recordar ultima operación</string>
+	    <string name="menu_vibrationTime">Vibrar al pulsar una tecla</string>	   
+		
+	<!-- Activity Acerca de -->	
+		<string name="about_title">Calculadora básica</string>
+    	<string name="about_version">App V1.0</string>
+    	<string name="about_created_by">Creado por giltesa</string>
+	    
+</resources>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <TextView
+        android:id="@+id/tvc_label_memory"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:gravity="left"
+        android:padding="2dp"
+        android:paddingRight="10dp"
+        />
+
+    <TextView
+        android:id="@+id/tvc_label_history"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@+id/tvc_label_memory"
+        android:gravity="right"
+        android:paddingLeft="5dp"
+        android:paddingRight="10dp"
+        android:inputType="textImeMultiLine"
+        />
+
+    <EditText
+        android:id="@+id/tvc_label_operation"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/tvc_label_memory"
+        android:gravity="right"
+        android:text="@string/main_btn_0"
+        android:textSize="10dp"
+        android:paddingRight="10dp"
+        
+        android:scrollHorizontally="true"
+		android:inputType="textImeMultiLine"
+		android:clickable="false"
+		android:cursorVisible="false"
+		android:lines="1"
+		android:linksClickable="false"
+		android:focusable="false"
+		android:longClickable="false"
+		android:background="#00000000"
+        />
+
+</RelativeLayout>

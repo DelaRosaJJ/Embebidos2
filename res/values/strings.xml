@@ -1,0 +1,68 @@
+<resources>
+    
+    
+	<!-- DEFAULT LANGUAGE -->
+    
+	<!-- APP -->
+	    <string name="app_name">Calculator</string>
+    	<string name="app_name_settings">Preferences</string>
+    	<string name="app_name_about">About</string>
+    	<string name="activity_main_title">Basic Calculator</string>
+    
+    <!-- Main Buttons -->
+	    <string name="main_btn_0">0</string>
+	    <string name="main_btn_1">1</string>
+	    <string name="main_btn_2">2</string>
+	    <string name="main_btn_3">3</string>
+	    <string name="main_btn_4">4</string>
+	    <string name="main_btn_5">5</string>
+	    <string name="main_btn_6">6</string>
+	    <string name="main_btn_7">7</string>
+	    <string name="main_btn_8">8</string>
+	    <string name="main_btn_9">9</string>
+	    <string name="main_btn_decimal">.</string>
+	    <string name="main_btn_plus">+</string>
+	    <string name="main_btn_minus">-</string>
+	    <string name="main_btn_multiply">x</string>
+	    <string name="main_btn_divide">/</string>
+	    <string name="main_btn_mc">MC</string>
+	    <string name="main_btn_mr">MR</string>
+	    <string name="main_btn_ms">MS</string>
+	    <string name="main_btn_mPlus">M+</string>
+	    <string name="main_btn_mMinus">M-</string>
+	    <string name="main_btn_back">←</string>
+	    <string name="main_btn_ce">CE</string>
+	    <string name="main_btn_c">C</string>
+	    <string name="main_btn_plusMinus">±</string>
+	    <string name="main_btn_square">√</string>
+	    <string name="main_btn_percentage">%</string>
+	    <string name="main_btn_derivate">1/x</string>
+	    <string name="main_btn_equal">=</string>
+	    <string name="main_btn_menu">\u2507</string>
+	    <string name="main_btn_elevated">x²</string>
+
+	<!-- Main Buttons Advanced Operations -->	    
+	    <string name="mathematical_menu_sin">sin</string>
+	    <string name="mathematical_menu_cos">cos</string>
+	    <string name="mathematical_menu_tan">tan</string>
+	    <string name="mathematical_menu_pi">Pi</string>
+	    
+	<!-- Main Menu Buttons -->	    
+	    <string name="main_menu_copy">Copy</string>
+	    <string name="main_menu_paste">Paste</string>
+	    <string name="main_menu_settings">Settings</string>
+	    <string name="main_menu_about">About</string>
+	    <string name="main_menu_message_copied">Text copied</string>
+	    <string name="main_menu_message_no_copied">The text isn\'t a number</string>
+	    
+	<!-- Button Settings -->
+	    <string name="main_menu_showNotificationBar">Show notification bar</string>
+	    <string name="main_menu_rememberLastResult">Remember last operation</string>
+	    <string name="main_menu_vibrationTime">Vibrate on key press</string>
+	    
+	<!-- Activity About -->	
+		<string name="about_title">Basic Calculator</string>
+    	<string name="about_version">App V1.0</string>
+    	<string name="about_created_by">Created by giltesa</string>	    
+	    
+</resources>

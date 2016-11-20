@@ -1,0 +1,27 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+    <item
+        android:id="@+id/mathematical_menu_seno"
+        android:title="@string/mathematical_menu_sin"
+        android:orderInCategory="1"
+        />
+    
+    <item
+        android:id="@+id/mathematical_menu_coseno"
+        android:title="@string/mathematical_menu_cos"
+        android:orderInCategory="2"
+        />
+    
+    <item
+        android:id="@+id/mathematical_menu_tangente"
+        android:title="@string/mathematical_menu_tan"
+        android:orderInCategory="3"
+        />
+    
+    <item
+        android:id="@+id/mathematical_menu_pi"
+        android:title="@string/mathematical_menu_pi"
+        android:orderInCategory="3"
+        />    
+
+</menu>
